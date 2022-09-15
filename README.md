@@ -2,7 +2,7 @@
 <!DOCTYPE html><html lang="en-US"> 
 <html>
 <head>
-  <title><b>Como construir um site HTML</b></title>
+  <title><b>Como encher chouriços</b></title>
 </head>
 <body>
 <h1> Isto não é assim tao complicado </h1>
