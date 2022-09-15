@@ -2,7 +2,7 @@
 <!DOCTYPE html><html lang="en-US"> 
 <html>
 <head>
-<title>Como construir um site HTML</title>
+  <title><b>Como construir um site HTML</b></title>
 </head>
 <body>
 <h1> Isto não é assim tao complicado </h1>
