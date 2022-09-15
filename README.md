@@ -19,5 +19,6 @@
 <td>Perna Porco -  1kg </td>
 <td>Entremeada -  300g </td>
 <td>Toucinho -  150g </td>
+</tr>
 </body>
 </html>
