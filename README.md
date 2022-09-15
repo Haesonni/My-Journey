@@ -20,5 +20,6 @@
 <td>Entremeada -  300g </td>
 <td>Toucinho -  150g </td>
 </tr>
+  </table>
 </body>
 </html>
