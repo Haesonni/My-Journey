@@ -14,7 +14,10 @@
 <li> Talento </li>
 </ol>
 <table><thead>Ingredientes</thead>
+  <tbody>
 <tr>
-<td>Row 1 - 
+<td>Perna Porco -  1kg </td>
+<td>Entremeada -  300g </td>
+<td>Toucinho -  150g </td>
 </body>
 </html>
